@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="edit-svg" style="width: 50%; height: 60%" mi-view-box="0 0 1024 1024" viewBox="0 0 1024 1024">
+		<rect fill="white" x="0" y="0" mi-width="1024" mi-height="1024" width="1024" height="1024"></rect>
+		<g>
+            <path class="cursor-pointer " mi-d="M464 96c-256.279-0.041-464.021 207.696-464 463.969-0.021 256.294 207.721 464.051 464 464.031 256.258 0.021 464.041-207.716 464-464.031h-464v-463.969z" mi-fill="rgb(197, 40, 40)" mi-stroke="inherit" mi-stroke-width="inherit" mi-stroke-linejoin="inherit" mi-stroke-linecap="inherit" mi-stroke-miterlimit="inherit" mi-opacity="1" ng-click="selectPath($index)" mi-absorb-clicks="" stroke-linejoin="inherit" opacity="1" fill="rgb(197, 40, 40)" stroke-miterlimit="inherit" stroke="inherit" stroke-linecap="inherit" stroke-width="inherit" d="M464 96c-256.279-0.041-464.021 207.696-464 463.969-0.021 256.294 207.721 464.051 464 464.031 256.258 0.021 464.041-207.716 464-464.031h-464v-463.969z">
+			</path>
+            <path class="cursor-pointer " mi-d="M544 0v480h480c-0.021-265.126-214.896-480.042-480-480z" mi-fill="rgb(254, 120, 40)" mi-stroke="inherit" mi-stroke-width="inherit" mi-stroke-linejoin="inherit" mi-stroke-linecap="inherit" mi-stroke-miterlimit="inherit" mi-opacity="1" ng-click="selectPath($index)" mi-absorb-clicks="" stroke-linejoin="inherit" opacity="1" fill="rgb(254, 120, 40)" stroke-miterlimit="inherit" stroke="inherit" stroke-linecap="inherit" stroke-width="inherit" d="M544 0v480h480c-0.021-265.126-214.896-480.042-480-480z">
+			</path>
+		</g>
+        <g class="edit-grid ng-hide">
+            <g class="hLines"></g>
+            <g class="vLines"></g>
+        </g>
+</svg>
